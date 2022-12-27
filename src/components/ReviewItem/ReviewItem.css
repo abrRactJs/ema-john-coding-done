@@ -1,0 +1,17 @@
+.orderReview{
+    border-bottom: 1px solid lightgray;
+   padding-bottom: 20px;
+}
+.orderReview button{
+    padding: 15px 30px;
+    outline: 0;
+    border: none;
+    font-weight: bold;
+    color: white;
+    background-color: goldenrod;
+    border-radius: 5px;
+    transition: .5s;
+}
+.orderReview button:hover{
+    box-shadow: 2px 2px 10px goldenrod;
+}
